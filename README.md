@@ -1,4 +1,5 @@
 ## Tedn1
+# Cade meu certificado?
 Desafios e Exercícios desenvolvidos na trilha Fundamentar - Discover da Rocketseat
 Conteúdo do curso:
 HTML5
@@ -8,4 +9,3 @@ DOM
 Ejs
 Nodejs
 Git
-# Cade meu certificado?
